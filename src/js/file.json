@@ -9,7 +9,7 @@
 			"name": "pets",
 			"item": [
 				{
-					"name": "List all pets",
+					"name": "List all pets: Details about a user {{aws_key_id}}: {{aws_access_key}}",
 					"request": {
 						"auth": {
 							"type": "noauth"
