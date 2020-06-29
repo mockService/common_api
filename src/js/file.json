@@ -19,7 +19,7 @@
 							{
 								"key": "limit",
 								"value": "<integer>",
-								"description": "How many items to return at one time (max 100) ID of the user {{exported_aws_api_data}} {{pmIntegrationLib}}  {{Response}}"
+								"description": "How many items to return at one time (max 100) ID of the user {{exported_aws_api_data}}/{{pmIntegrationLib}}/{{Response}}"
 							}
 						],
 						"url": {
