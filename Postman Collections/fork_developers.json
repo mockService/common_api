@@ -1,0 +1,31 @@
+{
+  "info": {
+    "_postman_id": "44f5ce28-cdaa-429e-8b8c-c62307a8efcf",
+    "name": "fork developers",
+    "description": "DO NOT DELETE: This collecition is being used to perform access control checks\n",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "a818bc91-0488-4f5c-9570-b7aa6547ea25",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "790e09fe-0d20-4eb8-a240-146a53c28bc4",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ]
+}
