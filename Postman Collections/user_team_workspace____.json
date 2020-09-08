@@ -1,0 +1,30 @@
+{
+  "info": {
+    "_postman_id": "5ae344e8-7feb-48a0-b072-e81880fa8aa7",
+    "name": "user team workspace    ",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "2ca4e907-3732-4454-8412-742324e34f66",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "1dc9ce80-d667-4935-9101-dd093b08b88c",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ]
+}
