@@ -1,15 +1,15 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "version": "<img src=c>",
-    "title": "<img src=c>",
+    "version": "Updated by me",
+    "title": "XSS",
     "license": {
       "name": "MIT"
     }
   },
   "servers": [
     {
-      "url": "http://petstore.swagger.io/v1'; whoami; &#60;img src=x &gt;'"
+      "url": "http://petstore.swagger.io/v1"
     }
   ],
   "paths": {
